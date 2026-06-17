@@ -1,7 +1,9 @@
 # Byaj Calculator
 
 Simple Mobile App
+
 An Android app that's both a regular calculator and an interest calculator. Built it during my IT internship project work, mainly to practice Android development with a clean dark UI.
+
 Developed during my IT internship and Mobile App Development course using Android Studio. 
 The app features a clean dark-themed UI and is designed to help business owners and individuals perform everyday financial calculations quickly and efficiently.
 It is easy to use and useful to for calculation work
